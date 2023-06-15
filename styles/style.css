@@ -98,7 +98,7 @@ body {
     border: 1px solid var(--cor-segundaria);
     width: 45%;
 }
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     font-size: 1.56rem;
     border: 4px  var(--cor-terciaria);
     border-style: inset;
