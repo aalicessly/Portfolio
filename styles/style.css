@@ -92,6 +92,10 @@ body {
     text-decoration: none;
     color:var(--cor-segundaria);
     font-family: var(--fonte-segundaria);
+    height: auto;
+}
+.apresentacao__links__navegacao__img {
+    width: 26px;
 }
 .apresentacao__imagem {
     border-radius: 50%;
